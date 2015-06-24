@@ -17,4 +17,4 @@ service, but the tweet IDs are included here. You can use a tool like
 
 ### License
 
-[CC-By](https://creativecommons.org/licenses/by/4.0/)
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
