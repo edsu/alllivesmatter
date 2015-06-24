@@ -1,4 +1,4 @@
-These project contains data files for tweets mentioning #AllLivesMatter that
+This project contains data files for tweets mentioning #AllLivesMatter that
 were derived from a collection of 30 million tweets mentioning the word 
 Ferguson housed at the Maryland Institute for Technology in the Humanties. The 
 analysis was performed as part of a research collaboration between MITH and 
