@@ -14,3 +14,7 @@ of Maryland.
 The original data files cannot be made available due to Twitter's terms of 
 service, but the tweet IDs are included here. You can use a tool like
 [twarc](http://github.com/edsu/twarc) to hydrate the original data.
+
+### License
+
+[CC-By](https://creativecommons.org/licenses/by/4.0/)
