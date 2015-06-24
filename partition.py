@@ -34,12 +34,9 @@ def process(filename):
             continue
         for e in tweet['entities']['hashtags']:
             tag = e['text'].lower()
-            write_to = None
             if tag == "blacklivesmatter":
-                found = True
                 blm.write(line)
             if tag == "alllivesmatter":
-                found = True
                 alm.write(line)
 
 for bag in bags:
