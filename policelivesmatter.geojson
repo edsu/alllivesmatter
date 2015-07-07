@@ -1,0 +1,833 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.78927, 
+          41.659177
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Robert Rivera", 
+        "url": "http://twitter.com/Robs_tweeting/status/573806466819358720", 
+        "text": "Your 6 day #ferguson riot and looting forecast !  \ud83d\ude0e\ud83d\ude0e\ud83d\ude0e #PantsUPDontLoot #PoliceLivesMatter http://t.co/HbrDOhoro1", 
+        "created_at": "Fri Mar 06 11:24:57 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563817460529242112/p3RzhV7N_normal.jpeg", 
+        "screen_name": "Robs_tweeting"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -97.445765, 
+          35.192874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "ReallyRick", 
+        "url": "http://twitter.com/ReallyRickPhD/status/575892275261214720", 
+        "text": "@Nettaaaaaaaa You will find out who did it and if you don't turn him in you're guilty of attempted murder. #PoliceLivesMatter #Ferguson", 
+        "created_at": "Thu Mar 12 05:33:12 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574365809142706177/GoUhhOjE_normal.jpeg", 
+        "screen_name": "ReallyRickPhD"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.875834, 
+          41.249029
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "John Reilly", 
+        "url": "http://twitter.com/johny_jamboogie/status/575897718889058304", 
+        "text": "\u201c@AP: BREAKING: St. Louis Post-Dispatch reports 2 officers shot outside Ferguson Police Department\u201dthat's it I'm rioting #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 05:54:50 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/541895543698378752/6G1FtPkN_normal.jpeg", 
+        "screen_name": "johny_jamboogie"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.45386, 
+          38.378447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Austin", 
+        "url": "http://twitter.com/austinlabry/status/575901002131353601", 
+        "text": "2 dispatch officers shot outside ferguson police department.... #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 06:07:53 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575840682004246528/qQvEnF0K_normal.jpeg", 
+        "screen_name": "austinlabry"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.126165, 
+          37.285706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "phil correll", 
+        "url": "http://twitter.com/im4tech73h/status/575902147881123840", 
+        "text": "Prayers for the Officers and their families for the two that were shot in #Ferguson tonight. #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 06:12:26 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575727876563210241/cSBpEeEb_normal.jpeg", 
+        "screen_name": "im4tech73h"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.303, 
+          49.05013
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "DragonForce_One", 
+        "url": "http://twitter.com/DragonForce_One/status/575913526222417920", 
+        "text": "Let's hope that cooler heads prevail in Ferguson. Let law enforcement officials do their job. #FergusonReport #PoliceLivesMatter #tcot", 
+        "created_at": "Thu Mar 12 06:57:39 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528996857801097216/VFnNwHGh_normal.jpeg", 
+        "screen_name": "DragonForce_One"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -88.994691, 
+          35.261261
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "carole bryant", 
+        "url": "http://twitter.com/CALDONNIA/status/575917716910927873", 
+        "text": "@SonjaHHarris #racist #Ferguson #PoliceLivesMatter One was shot in the face another in shoulder! They are ... http://t.co/bPDtBZ0BFW", 
+        "created_at": "Thu Mar 12 07:14:18 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567423290168180737/fS3g8Yec_normal.jpeg", 
+        "screen_name": "CALDONNIA"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -88.994691, 
+          35.261261
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "carole bryant", 
+        "url": "http://twitter.com/CALDONNIA/status/575918151080148993", 
+        "text": "@SonjaHHarris #Ferguson #PoliceLivesMatter  Who knows! Nothing but outside thugs coming in to keep trouble going!", 
+        "created_at": "Thu Mar 12 07:16:01 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567423290168180737/fS3g8Yec_normal.jpeg", 
+        "screen_name": "CALDONNIA"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          101.916563, 
+          2.68524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Matthew Van Huizen", 
+        "url": "http://twitter.com/vanhuizen_matt/status/575929035072536576", 
+        "text": "Terrible events at #Ferguson . #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 07:59:16 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570261203167887360/u2Y7-273_normal.jpeg", 
+        "screen_name": "vanhuizen_matt"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.931146, 
+          53.268258
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Stephen MallY#04050", 
+        "url": "http://twitter.com/mally1969ste/status/575949820583673858", 
+        "text": "http://t.co/xBJlppPXmO\nAnother #peaceful demonstration #Ferguson \n#PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 09:21:52 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3619584036/9368418eb295ab4e948c278938d3fc1d_normal.jpeg", 
+        "screen_name": "mally1969ste"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.931157, 
+          53.268256
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Stephen MallY#04050", 
+        "url": "http://twitter.com/mally1969ste/status/575952444288565248", 
+        "text": "Ferguson police shot during protest - http://t.co/nxdwmchiCI\nthey know if someone shot police keep witness on scene  #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 09:32:18 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3619584036/9368418eb295ab4e948c278938d3fc1d_normal.jpeg", 
+        "screen_name": "mally1969ste"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -76.217229, 
+          40.123376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Kayla Marie", 
+        "url": "http://twitter.com/kaaayyyylaaa/status/575965753461047296", 
+        "text": "\u201c@FoxNews: BREAKING: 2 police officers reported shot amid protests outside Ferguson Police Department\u201d #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 10:25:11 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554129961234464768/YhmU-6i5_normal.jpeg", 
+        "screen_name": "kaaayyyylaaa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.405391, 
+          37.760745
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "angela rose", 
+        "url": "http://twitter.com/cupckelady/status/575965819999408128", 
+        "text": "\ud83d\ude14\ud83d\ude4f praying for the officers in ferguson. #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 10:25:27 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/560293282966945792/aiktaDhm_normal.jpeg", 
+        "screen_name": "cupckelady"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -82.655088, 
+          34.545346
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Ben McDougald", 
+        "url": "http://twitter.com/BenMcDougald15/status/575974628910325760", 
+        "text": "I respect the protests done by MLK and Rosa Parks but I do not  respect what the people in Ferguson are doing. #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 11:00:27 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575109554389827584/aQ1CzKKm_normal.jpeg", 
+        "screen_name": "BenMcDougald15"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -82.655313, 
+          34.545397
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Ben McDougald", 
+        "url": "http://twitter.com/BenMcDougald15/status/575974849224548352", 
+        "text": "I respect the protests done by MLK and Rosa Parks but I do not  respect what the people in Ferguson are doing &amp; have done #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 11:01:19 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575109554389827584/aQ1CzKKm_normal.jpeg", 
+        "screen_name": "BenMcDougald15"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.282023, 
+          48.241888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Desiree Aaron", 
+        "url": "http://twitter.com/DesireeAaron/status/575977178333978624", 
+        "text": "#POLICELIVESMATTER\n#POLICELIVESMATTER\n#POLICELIVESMATTER\n#PoliceLivesMatter \n#Ferguson", 
+        "created_at": "Thu Mar 12 11:10:35 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575811243497287680/UGnrFFwk_normal.jpeg", 
+        "screen_name": "DesireeAaron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.282189, 
+          48.24197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Desiree Aaron", 
+        "url": "http://twitter.com/DesireeAaron/status/575977528201912320", 
+        "text": "Again,  Police pay the price for AG HOLDER @BarackObama race-baiting. \nShameful. \n#Ferguson \n#PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 11:11:58 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575811243497287680/UGnrFFwk_normal.jpeg", 
+        "screen_name": "DesireeAaron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.282127, 
+          48.242001
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Desiree Aaron", 
+        "url": "http://twitter.com/DesireeAaron/status/575978562852810752", 
+        "text": "@Ms_Brina always the same sad pictures. So, you want dead cops too? TYPICAL. \n#Ferguson \n#PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 11:16:05 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575811243497287680/UGnrFFwk_normal.jpeg", 
+        "screen_name": "DesireeAaron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.282087, 
+          48.24203
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Desiree Aaron", 
+        "url": "http://twitter.com/DesireeAaron/status/575979475059367936", 
+        "text": "@Ms_Brina &lt;&lt;&lt;LWNJ celebrating the shooting of two police officers trying to maintain order in #Ferguson . \n#PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 11:19:42 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575811243497287680/UGnrFFwk_normal.jpeg", 
+        "screen_name": "DesireeAaron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50941, 
+          53.560847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Renee Labranche", 
+        "url": "http://twitter.com/FemmeFireRL/status/575982962858029056", 
+        "text": "Thinking of The Thin Blue Line in Ferguson MO #policelivesmatter", 
+        "created_at": "Thu Mar 12 11:33:34 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/571600511998169089/lLD7il4L_normal.jpeg", 
+        "screen_name": "FemmeFireRL"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.556658, 
+          30.209368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "PayingThaBills", 
+        "url": "http://twitter.com/PayingThaBills/status/575983606163722240", 
+        "text": "Teen shot in #Ferguson, my timeline was full of support for him. Some idiots #shoot at the #police, nuffin. #PoliceLivesMatter too.", 
+        "created_at": "Thu Mar 12 11:36:07 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/511684611035119616/o5uGw02z_normal.jpeg", 
+        "screen_name": "PayingThaBills"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -76.989146, 
+          38.861795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "\u0141\u00d6R\u00cb\u0143\u017b\u00d6", 
+        "url": "http://twitter.com/MancLorenzo/status/575987029378498560", 
+        "text": "And they wonder why cops are so quick to defend themselves #Ferguson #PoliceLivesMatter #noteverythingisaboutrace", 
+        "created_at": "Thu Mar 12 11:49:43 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563829445845192705/ey2QDGSX_normal.png", 
+        "screen_name": "MancLorenzo"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.282114, 
+          48.24198
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Desiree Aaron", 
+        "url": "http://twitter.com/DesireeAaron/status/575987898266177536", 
+        "text": "@Ms_Brina So, just bcuz Ur a black racist,  you're right? Get a grip on your anger.\n#WhiteLivesMatterToo \n#Ferguson\n #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 11:53:10 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575811243497287680/UGnrFFwk_normal.jpeg", 
+        "screen_name": "DesireeAaron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -76.570875, 
+          37.145503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Michael Anderson", 
+        "url": "http://twitter.com/LivingLarge19/status/576004845175463936", 
+        "text": "Ok. So we all understand that #BlackLivesMatter. But #PoliceLivesMatter too as protestors in ferguson shoot two officers. #AllLivesMatter", 
+        "created_at": "Thu Mar 12 13:00:31 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/504264641787461634/AqM0GiQx_normal.jpeg", 
+        "screen_name": "LivingLarge19"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.156069, 
+          33.632216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Shannon", 
+        "url": "http://twitter.com/shannowens657/status/576021157008130048", 
+        "text": "So sad to wake up this morning to hear that there was more violence in #Ferguson  god bless our police officers #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 14:05:20 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498590907730386945/LvfdfA2k_normal.jpeg", 
+        "screen_name": "shannowens657"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -115.09233, 
+          35.930769
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Suzie Herman", 
+        "url": "http://twitter.com/Scanoozle/status/576031358310486019", 
+        "text": "I wonder if @TheRevAl and @RevJJackson are heading to #Ferguson to put a spin on the latest shootings  #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 14:45:52 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3398118699/595edbda085130323776d3ba3ef39d07_normal.jpeg", 
+        "screen_name": "Scanoozle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -116.280545, 
+          33.713126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "maddie wales", 
+        "url": "http://twitter.com/maddiefencer/status/576032071597965312", 
+        "text": "Hey @ the idiot(s) in Ferguson\u2026 #PoliceLivesMatter too.", 
+        "created_at": "Thu Mar 12 14:48:42 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/541039033741103104/8p5i1DFF_normal.jpeg", 
+        "screen_name": "maddiefencer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -77.57025, 
+          36.557431
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "#Bossy J-Reb \u271f \u2721 \u0646", 
+        "url": "http://twitter.com/SouthernJReb/status/576034358252986368", 
+        "text": "Two officers shot, seriously injured outside Ferguson police department http://t.co/br4uJ9R0rH @BarackObama #PoliceLivesMatter #Ferguson", 
+        "created_at": "Thu Mar 12 14:57:47 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/514695187038097409/fozepoRc_normal.jpeg", 
+        "screen_name": "SouthernJReb"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -89.717819, 
+          39.279999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Ariel Dohm", 
+        "url": "http://twitter.com/air_ee_ell/status/576057172930510849", 
+        "text": "Killing two cops that had nothing to do with anything solves absolutely NOTHING #Ferguson #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 16:28:27 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575873495222984704/6cRWEkJl_normal.jpeg", 
+        "screen_name": "air_ee_ell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.301765, 
+          48.417378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Desiree Aaron", 
+        "url": "http://twitter.com/DesireeAaron/status/576069240458903552", 
+        "text": "@Breaking911 @BarackObama Thanks 4 that pathetic statement. May you reap what you have sown. \n#Ferguson \n#PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 17:16:24 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575811243497287680/UGnrFFwk_normal.jpeg", 
+        "screen_name": "DesireeAaron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.301767, 
+          48.417387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Desiree Aaron", 
+        "url": "http://twitter.com/DesireeAaron/status/576092373123354624", 
+        "text": "@DallasNole @bob_owensThe officers shot were attempting 2 provide a safe environment 4 the hate #Ferguson  had for them.\n#PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 18:48:19 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575811243497287680/UGnrFFwk_normal.jpeg", 
+        "screen_name": "DesireeAaron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -83.992985, 
+          33.847242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "libralady\u2665", 
+        "url": "http://twitter.com/7misspriss7/status/576094628065222656", 
+        "text": "@JudgeJeanine #Ferguson #whitepeopledontriot #FergusonShooting #blackpeopleproblems #PoliceLivesMatter http://t.co/B4AGr1RLai", 
+        "created_at": "Thu Mar 12 18:57:17 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510650587906859008/8-UZdw7g_normal.jpeg", 
+        "screen_name": "7misspriss7"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -76.472006, 
+          40.673646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "H.W.", 
+        "url": "http://twitter.com/LNuwanda/status/576114107948122112", 
+        "text": "#Ferguson needs a drone strike. #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 20:14:41 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/516384697300307968/h2KjXSlM_normal.jpeg", 
+        "screen_name": "LNuwanda"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.667222, 
+          45.524621
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Mike Bivins", 
+        "url": "http://twitter.com/itsmikebivins/status/576164614506815488", 
+        "text": "@ORStatePolice is it just me or is every person in that photo white? #Ferguson #diversity #ICantBreathe #PoliceLivesMatter #BlackLivesMatter", 
+        "created_at": "Thu Mar 12 23:35:23 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574597022293983232/jWG3t0P-_normal.jpeg", 
+        "screen_name": "itsmikebivins"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.666992, 
+          45.524617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Mike Bivins", 
+        "url": "http://twitter.com/itsmikebivins/status/576165730745331712", 
+        "text": ".@ORStatePolice not a lot of #diversity in this photo of soon to be #Oregon state troopers. #Ferguson #BlackLivesMatter #PoliceLivesMatter", 
+        "created_at": "Thu Mar 12 23:39:49 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574597022293983232/jWG3t0P-_normal.jpeg", 
+        "screen_name": "itsmikebivins"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.161252, 
+          39.948788
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Megan Van Wallendael", 
+        "url": "http://twitter.com/megan_vw/status/576168656499011584", 
+        "text": "It's fucking 2015...why can't we all get along? #Ferguson #PoliceLivesMatter #BlackLivesMatter #WhiteLivesMatterToo #EveryLifeMatters #peace", 
+        "created_at": "Thu Mar 12 23:51:27 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570327722716741632/2AkVHdz6_normal.jpeg", 
+        "screen_name": "megan_vw"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.161272, 
+          39.948776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Megan Van Wallendael", 
+        "url": "http://twitter.com/megan_vw/status/576168995541368832", 
+        "text": "It's fucking 2015...why can't we all get along? #Ferguson #PoliceLivesMatter #BlackLivesMatter #WhiteLivesMatter #EveryLifeMatters #peace", 
+        "created_at": "Thu Mar 12 23:52:47 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570327722716741632/2AkVHdz6_normal.jpeg", 
+        "screen_name": "megan_vw"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -84.210628, 
+          37.9729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TammyPerdue", 
+        "url": "http://twitter.com/TammyPerdue5/status/576210876002357248", 
+        "text": "EH really wanted to find something in #Ferguson case. Nothing there. Needs to stop #PoliceLivesMatter", 
+        "created_at": "Fri Mar 13 02:39:12 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574739939994238977/tuB-jg7H_normal.jpeg", 
+        "screen_name": "TammyPerdue5"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -90.269323, 
+          38.749204
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Jackie Luke", 
+        "url": "http://twitter.com/telescopium/status/576390192468135936", 
+        "text": "#truthtelling #truthtellingproject #Ferguson #PoliceLivesMatter #policebrutality http://t.co/XeXK6RrCpu", 
+        "created_at": "Fri Mar 13 14:31:45 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000738377486/b9c2470b696bded82c2cc95885c30bac_normal.jpeg", 
+        "screen_name": "telescopium"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.01515, 
+          37.85056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Anthony Rocca", 
+        "url": "http://twitter.com/Anthony_Rocca/status/577149127273754624", 
+        "text": "\u201cIt\u2019s unfathomable that we've gotten to this point in the #USA, says @SheriffClarke on #Ferguson. #KellyFile #PoliceLivesMatter @megynkelly", 
+        "created_at": "Sun Mar 15 16:47:29 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/549742567403708416/z9mypa5i_normal.jpeg", 
+        "screen_name": "Anthony_Rocca"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.126728, 
+          41.342217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Tyler Fortier", 
+        "url": "http://twitter.com/TFortierPhoto/status/577175803781386241", 
+        "text": "\"#Arrest over #Ferguson #PoliceLivesMatter  shooting\" http://t.co/i3AHZ25tqJ #BREAKING #FergusonShooting", 
+        "created_at": "Sun Mar 15 18:33:29 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568494203269697536/5MfDOzXp_normal.jpeg", 
+        "screen_name": "TFortierPhoto"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.158951, 
+          38.659034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Joanna", 
+        "url": "http://twitter.com/joannarn4kids/status/577372845610655745", 
+        "text": "A man who shot two police officers in Ferguson receives a $300,000! It should have been NO BAIL! That's $150,000/officer.#PoliceLivesMatter", 
+        "created_at": "Mon Mar 16 07:36:28 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/538156043755212800/p7jhUtIQ_normal.jpeg", 
+        "screen_name": "joannarn4kids"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -92.408996, 
+          41.020851
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "#SupportDarrenWilson", 
+        "url": "http://twitter.com/jtroberts94/status/537548213863989248", 
+        "text": "These \"protesters\" should just be considered terrorists #Ferguson #PoliceLivesMatter #SupportDarrenWilson", 
+        "created_at": "Wed Nov 26 10:07:36 +0000 2014", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/537213097941811200/abQyzB2F_normal.jpeg", 
+        "screen_name": "jtroberts94"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -92.408996, 
+          41.0208509
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Jacob Roberts ", 
+        "url": "http://twitter.com/jtroberts94/status/537548213863989248", 
+        "text": "These \"protesters\" should just be considered terrorists #Ferguson #PoliceLivesMatter #SupportDarrenWilson", 
+        "created_at": "Wed Nov 26 10:07:36 +0000 2014", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/537213097941811200/abQyzB2F_normal.jpeg", 
+        "screen_name": "jtroberts94"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.8400472, 
+          35.5576077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Greg MacPeek", 
+        "url": "http://twitter.com/GTMAC21/status/538853634478727171", 
+        "text": "Good luck and be safe Officer #DarrenWilson #PantsUpDontLoot #Ferguson #PoliceLivesMatter", 
+        "created_at": "Sun Nov 30 00:34:52 +0000 2014", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/509416304508669952/rVVl52Zh_normal.jpeg", 
+        "screen_name": "GTMAC21"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -89.571996, 
+          44.533526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Ben", 
+        "url": "http://twitter.com/benzitouni/status/541632790388039680", 
+        "text": "\"@Jessica13777: This is what should have been on the cover of @TIME instead of thugs!! #PoliceLivesMatter #Ferguson http://t.co/s17FP7PmSq\"", 
+        "created_at": "Sun Dec 07 16:38:14 +0000 2014", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/541448531916374017/iMjKznYj_normal.jpeg", 
+        "screen_name": "benzitouni"
+      }
+    }
+  ]
+}

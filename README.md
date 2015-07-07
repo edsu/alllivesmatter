@@ -8,8 +8,11 @@ of Maryland.
 * partition.py - script for partitioning original tweet collections
 * blacklivesmatter.txt - ids for #BlackLivesMatter
 * alllivesmatter.txt - ids for #AllLivesMatter
+* policelivesmatter.txt - ids for #PoliceLivesMatter
 * alllivesmatter.csv - CSV representation of #AllLivesMatter tweets
 * alllivesmatter.geojson - GeoJSON representation of 312 tweets with geo-coordinates
+* policelivesmatter.csv - CSV representation of #PoliceLivesMatter tweets
+* policelivesmatter.geojson - GeoJSON representation of 46 #PoliceLivesMatter tweets 
 
 The original data files cannot be made available due to Twitter's terms of 
 service, but the tweet IDs are included here. You can use a tool like

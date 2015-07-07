@@ -26,18 +26,21 @@ def process(filename):
 
     blm = open("blacklivesmatter.json", "a")
     alm = open("alllivesmatter.json", "a")
+    plm = open("policelivesmatter.json", "a")
 
     for line in fh:
         try:
             tweet = json.loads(line)
         except:
             continue
-        for e in tweet['entities']['hashtags']:
-            tag = e['text'].lower()
+        tags = set([ht['text'].lower() for ht in tweet['entities']['hashtags']])
+        for tag in tags:
             if tag == "blacklivesmatter":
                 blm.write(line)
             if tag == "alllivesmatter":
                 alm.write(line)
+            if tag == "policelivesmatter":
+                plm.write(line)
 
 for bag in bags:
     data_dir = os.path.join(bags_dir, bag, "data")
