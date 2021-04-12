@@ -635,24 +635,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -75.161252, 
-          39.948788
-        ]
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Megan Van Wallendael", 
-        "url": "http://twitter.com/megan_vw/status/576168656499011584", 
-        "text": "It's fucking 2015...why can't we all get along? #Ferguson #PoliceLivesMatter #BlackLivesMatter #WhiteLivesMatterToo #EveryLifeMatters #peace", 
-        "created_at": "Thu Mar 12 23:51:27 +0000 2015", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/570327722716741632/2AkVHdz6_normal.jpeg", 
-        "screen_name": "megan_vw"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -75.161272, 
           39.948776
         ]
